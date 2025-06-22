@@ -30,13 +30,13 @@ Clone this repository:
 ```bash
 git clone https://raw.githubusercontent.com/Angrido/LXC-IPTagger/refs/heads/main/lxc-iptagger.sh
 cd lxc-iptagger
-chmod +x lxc-iptag.sh
+chmod +x lxc-iptagger.sh
 ````
 
 (Optional) Move the script to your system PATH:
 
 ```bash
-sudo mv lxc-iptag.sh /usr/local/bin/lxc-iptagger
+sudo mv lxc-iptagger.sh /usr/local/bin/lxc-iptagger
 ```
 
 ---
