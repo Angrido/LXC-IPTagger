@@ -43,10 +43,10 @@ sudo mv lxc-iptagger.sh /usr/local/bin/lxc-iptagger
 
 ## 🚀 Usage
 
-Run the script with root privileges:
+Run the script:
 
 ```bash
-sudo lxc-iptagger
+./lxc-iptagger.sh
 ```
 
 Example output:
