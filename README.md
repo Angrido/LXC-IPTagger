@@ -28,7 +28,7 @@ A simple 🔧 Bash script for Proxmox VE that automatically tags your LXC contai
 Download this repository:
 
 ```bash
-curl -o lxc-iptagger.sh https://raw.githubusercontent.com/Angrido/LXC-IPTagger/main/lxc-iptagger.sh
+wget https://raw.githubusercontent.com/Angrido/LXC-IPTagger/main/lxc-iptagger.sh -O lxc-iptagger.sh
 cd lxc-iptagger
 chmod +x lxc-iptagger.sh
 ````
