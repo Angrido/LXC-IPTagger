@@ -75,7 +75,7 @@ sudo crontab -e
 Add this line to update tags every 10 minutes:
 
 ```cron
-*/10 * * * * /usr/local/bin/lxc-iptagger
+0 * * * * /usr/local/bin/lxc-iptagger.sh
 ```
 
 ---
